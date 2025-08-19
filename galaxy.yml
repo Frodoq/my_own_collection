@@ -1,0 +1,16 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Your Name (@Frodoq)
+description: This is a custom collection for Netology homework.
+license: GPL-3.0-or-later
+tags:
+  - netology
+  - homework
+repository: https://github.com/Frodoq/my_own_collection
+documentation: https://github.com/Frodoq/my_own_collection
+homepage: https://github.com/Frodoq/my_own_collection
+issues: https://github.com/Frodoq/my_own_collection/issues
+dependencies: {}
